@@ -1,0 +1,6 @@
+{
+  "name": "HexGrid Studio - Battlemap & Image Hex Layer Overlay",
+  "description": "Overlay customizable hex grids onto any image or battlemap with precision size, offset, opacity, line thickness, coordinates, and high-resolution export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
